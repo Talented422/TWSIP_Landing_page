@@ -1,7 +1,6 @@
 VAST - Make an Impression & Drive More Downloads With VAST
 
 
-
 #---------- HEDER ----------#
 
 VAST
