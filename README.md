@@ -9,8 +9,7 @@
 
   VAST is a fully responsive app landing page, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/vast/"><strong>➥ Live Demo</strong></a>
-
+  
 </div>
 
 <br />
