@@ -33,8 +33,7 @@ sudo git clone https://github.com/Somu8249/TWSIP_Portfolio.git
 Windows:
 
 ```bash
-git clone 
-https://github.com/Somu8249/TWSIP_Portfolio.git
+git clone https://github.com/Somu8249/TWSIP_Portfolio.git
 ```
 
 ### License
