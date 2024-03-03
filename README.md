@@ -27,14 +27,14 @@ To run **VAST** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/vast.git
+sudo git clone https://github.com/Somu8249/TWSIP_Portfolio.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/vast.git
-```
+git clone 
+```https://github.com/Somu8249/TWSIP_Portfolio.git
 
 
 ### License
