@@ -27,13 +27,13 @@ To run **VAST** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Somu8249/TWSIP_Portfolio.git
+sudo git clone https://github.com/Talented422/TWSIP_Landing_page.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Somu8249/TWSIP_Portfolio.git
+git clone https://github.com/Talented422/TWSIP_Landing_page.git
 ```
 
 ### License
